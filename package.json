@@ -3,16 +3,16 @@
   "displayName": "Matrix Theme",
   "description": "Visual Studio Code color theme inspired by \"The Matrix\" film.",
   "version": "0.1.2",
-  "publisher": "UstymUkhman",
+  "publisher": "CamoCatX",
   "license": "MIT",
-  "homepage": "https://github.com/UstymUkhman/matrix-theme/blob/master/README.md",
+  "homepage": "https://github.com/CamoCatX/VSHacker-theme",
   "bugs": {
-    "url": "https://github.com/UstymUkhman/matrix-theme/issues",
-    "email": "ustym.ukhman@gmail.com"
+    "url": "https://github.com/CamoCatX/VSHacker-theme/issues",
+    "email": "camocatx@proton.me"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UstymUkhman/matrix-theme"
+    "url": "https://github.com/CamoCatX/VSHacker-theme"
   },
   "keywords": [
     "Theme",
@@ -20,6 +20,7 @@
     "Matrix",
     "Black",
     "Green"
+    "Hacker",
   ],
   "scripts": {
     "publish": "vsce publish"
@@ -38,8 +39,8 @@
   "contributes": {
     "themes": [{
       "label": "Matrix",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Matrix-color-theme.json"
+      "uiTheme": "vs-high-contrast",
+      "path": "./themes/Main.json"
     }]
   }
 }
