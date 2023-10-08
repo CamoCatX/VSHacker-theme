@@ -1,6 +1,6 @@
 {
-	"name": "Matrix",
-	"type": "dark",
+	"name": "Hacker10k",
+	"type": "highContrast",
 	"colors": {
 		"activityBar.border": "#00cc00",
 		"activityBar.background": "#000000",
@@ -80,7 +80,6 @@
 		"editor.hoverHighlightBackground": "#002200",
 		"editor.inactiveSelectionBackground": "#000000",
 		"editor.lineHighlightBorder": "#080808",
-		"editor.onTypeRenameBackground": "#000000",
 		"editor.rangeHighlightBackground": "#000000",
 		"editor.selectionBackground": "#003300",
 		"editor.selectionForeground": "#000000",
@@ -115,15 +114,15 @@
 		"editorHoverWidget.border": "#88ff88",
 		"editorHoverWidget.foreground": "#00cc00",
 		"editorHoverWidget.statusBarBackground": "#080808",
-		"editorIndentGuide.activeBackground": "#2c2c2c",
-		"editorIndentGuide.background": "#1c1c1c",
+		"editorIndentGuide.activeBackground1": "#2c2c2c",
+		"editorIndentGuide.background1": "#1c1c1c",
 		"editorInfo.border": "#00cc00",
 		"editorInfo.foreground": "#00cc00",
 		"editorLightBulb.foreground": "#ddffdd",
 		"editorLightBulbAutoFix.foreground": "#88ff88",
 		"editorLineNumber.activeForeground": "#00cc00",
 		"editorLineNumber.foreground": "#006600",
-		"editorLink.activeForeground": "#ddffdd",
+		"editorLink.activeForeground": "#EE0000",
 		"editorMarkerNavigation.background": "#000000",
 		"editorMarkerNavigationError.background": "#b40000",
 		"editorMarkerNavigationInfo.background": "#00cc00",
@@ -186,7 +185,7 @@
 		"inputValidation.warningBackground": "#000000",
 		"inputValidation.warningForeground": "#cccc00",
 		"list.activeSelectionBackground": "#006600",
-		"list.activeSelectionForeground": "#ddffdd",
+		"list.activeSelectionForeground": " vvv/#ddffdd",
 		"list.deemphasizedForeground": "#008800",
 		"list.dropBackground": "#0c0c0c",
 		"list.errorForeground": "#b40000",
@@ -410,8 +409,8 @@
 		"terminal.selectionBackground": "#003300",
 		"terminalCursor.background": "#000000",
 		"terminalCursor.foreground": "#00cc00",
-		"textLink.foreground": "#88ff88",
-		"textLink.activeForeground": "#ddffdd",
+		"textLink.foreground": "#0000EE",
+		"textLink.activeForeground": "#551A8B",
 		"textBlockQuote.background": "#080808",
 		"textBlockQuote.border": "#008800",
 		"textCodeBlock.background": "#0c0c0c",
@@ -425,8 +424,6 @@
 		"tree.indentGuidesStroke": "#00cc00",
 		"walkThrough.embeddedEditorBackground": "#000000",
 		"welcomePage.background": "#0c0c0c",
-		"welcomePage.buttonBackground": "#0c0c0c",
-		"welcomePage.buttonHoverBackground": "#000000",
 		"widget.shadow": "#008800",
 		"window.activeBorder": "#00cc00",
 		"window.inactiveBorder": "#008800"
@@ -597,7 +594,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#bbffbb"
+				"foreground": "#0000EE"
 			}
 		},
 		{
@@ -1057,7 +1054,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#bbffbb"
+				"foreground": "#0000EE"
 			}
 		},
 		{
@@ -1075,7 +1072,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#88ff88"
+				"foreground": "#2b2929a6"
 			}
 		},
 		{
