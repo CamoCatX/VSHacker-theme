@@ -8,4 +8,4 @@ Visual Studio Code theme like it's 1999
 3. Search for `haxx`
 4. Click **Install**
 5. **Manage** > **Color Theme** > **Matrix**
-**
+6. All set! Welcome to the jungle
