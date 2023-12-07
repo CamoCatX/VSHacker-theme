@@ -7,5 +7,5 @@ Visual Studio Code theme like it's 1999
 2. **Manage** > **Extensions** (or `Ctrl+Shift+X`)
 3. Search for `haxx`
 4. Click **Install**
-5. **Manage** > **Color Theme** > **Matrix**
+5. **Manage** > **Color Theme** > **haxx**
 6. All set! Welcome to the jungle
