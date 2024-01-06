@@ -4,7 +4,7 @@
   "description": "Visual Studio Code color theme inspired by \"The Matrix\" film.",
   "version": "0.1.2",
   "publisher": "CamoCatX",
-  "license": "MIT",
+  "license": "BSD 3-Clause",
   "homepage": "https://github.com/CamoCatX/VSHacker-theme",
   "bugs": {
     "url": "https://github.com/CamoCatX/VSHacker-theme/issues",
